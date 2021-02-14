@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/KalashnikovTV/GameOfThrones-DB/static/css/main.76cfc4c9.chunk.css",
-    "main.js": "/KalashnikovTV/GameOfThrones-DB/static/js/main.e4252d49.chunk.js",
-    "main.js.map": "/KalashnikovTV/GameOfThrones-DB/static/js/main.e4252d49.chunk.js.map",
-    "runtime-main.js": "/KalashnikovTV/GameOfThrones-DB/static/js/runtime-main.affd77a2.js",
-    "runtime-main.js.map": "/KalashnikovTV/GameOfThrones-DB/static/js/runtime-main.affd77a2.js.map",
-    "static/css/2.f5543f5b.chunk.css": "/KalashnikovTV/GameOfThrones-DB/static/css/2.f5543f5b.chunk.css",
-    "static/js/2.7a114c28.chunk.js": "/KalashnikovTV/GameOfThrones-DB/static/js/2.7a114c28.chunk.js",
-    "static/js/2.7a114c28.chunk.js.map": "/KalashnikovTV/GameOfThrones-DB/static/js/2.7a114c28.chunk.js.map",
-    "index.html": "/KalashnikovTV/GameOfThrones-DB/index.html",
-    "static/css/2.f5543f5b.chunk.css.map": "/KalashnikovTV/GameOfThrones-DB/static/css/2.f5543f5b.chunk.css.map",
-    "static/css/main.76cfc4c9.chunk.css.map": "/KalashnikovTV/GameOfThrones-DB/static/css/main.76cfc4c9.chunk.css.map",
-    "static/js/2.7a114c28.chunk.js.LICENSE.txt": "/KalashnikovTV/GameOfThrones-DB/static/js/2.7a114c28.chunk.js.LICENSE.txt",
-    "static/media/error.4a53f279.jpg": "/KalashnikovTV/GameOfThrones-DB/static/media/error.4a53f279.jpg",
-    "static/media/app.css": "/KalashnikovTV/GameOfThrones-DB/static/media/main-bg.64a9e84e.jpg"
+    "main.css": "/GameOfThrones-DB/static/css/main.eeb66c19.chunk.css",
+    "main.js": "/GameOfThrones-DB/static/js/main.e4252d49.chunk.js",
+    "main.js.map": "/GameOfThrones-DB/static/js/main.e4252d49.chunk.js.map",
+    "runtime-main.js": "/GameOfThrones-DB/static/js/runtime-main.e6023256.js",
+    "runtime-main.js.map": "/GameOfThrones-DB/static/js/runtime-main.e6023256.js.map",
+    "static/css/2.f5543f5b.chunk.css": "/GameOfThrones-DB/static/css/2.f5543f5b.chunk.css",
+    "static/js/2.7a114c28.chunk.js": "/GameOfThrones-DB/static/js/2.7a114c28.chunk.js",
+    "static/js/2.7a114c28.chunk.js.map": "/GameOfThrones-DB/static/js/2.7a114c28.chunk.js.map",
+    "index.html": "/GameOfThrones-DB/index.html",
+    "static/css/2.f5543f5b.chunk.css.map": "/GameOfThrones-DB/static/css/2.f5543f5b.chunk.css.map",
+    "static/css/main.eeb66c19.chunk.css.map": "/GameOfThrones-DB/static/css/main.eeb66c19.chunk.css.map",
+    "static/js/2.7a114c28.chunk.js.LICENSE.txt": "/GameOfThrones-DB/static/js/2.7a114c28.chunk.js.LICENSE.txt",
+    "static/media/error.4a53f279.jpg": "/GameOfThrones-DB/static/media/error.4a53f279.jpg",
+    "static/media/app.css": "/GameOfThrones-DB/static/media/main-bg.64a9e84e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.affd77a2.js",
+    "static/js/runtime-main.e6023256.js",
     "static/css/2.f5543f5b.chunk.css",
     "static/js/2.7a114c28.chunk.js",
-    "static/css/main.76cfc4c9.chunk.css",
+    "static/css/main.eeb66c19.chunk.css",
     "static/js/main.e4252d49.chunk.js"
   ]
 }
