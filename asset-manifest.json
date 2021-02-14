@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GameOfThrones-DB/static/css/main.eeb66c19.chunk.css",
-    "main.js": "/GameOfThrones-DB/static/js/main.3b798d5c.chunk.js",
-    "main.js.map": "/GameOfThrones-DB/static/js/main.3b798d5c.chunk.js.map",
+    "main.js": "/GameOfThrones-DB/static/js/main.42479c2a.chunk.js",
+    "main.js.map": "/GameOfThrones-DB/static/js/main.42479c2a.chunk.js.map",
     "runtime-main.js": "/GameOfThrones-DB/static/js/runtime-main.e6023256.js",
     "runtime-main.js.map": "/GameOfThrones-DB/static/js/runtime-main.e6023256.js.map",
     "static/css/2.f5543f5b.chunk.css": "/GameOfThrones-DB/static/css/2.f5543f5b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.f5543f5b.chunk.css",
     "static/js/2.7a114c28.chunk.js",
     "static/css/main.eeb66c19.chunk.css",
-    "static/js/main.3b798d5c.chunk.js"
+    "static/js/main.42479c2a.chunk.js"
   ]
 }
