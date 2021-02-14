@@ -2,7 +2,7 @@
   "name": "got-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KalashnikovTV/GameOfThrones-DB",
+  "homepage": "https://kalashnikovtv.github.io/GameOfThrones-DB",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "node-sass": "^5.0.0",

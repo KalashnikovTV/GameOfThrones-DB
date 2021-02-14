@@ -43,7 +43,7 @@ export default class App extends Component {
         }
 
         return (
-            <Router> 
+            <Router basename="/GameOfThrones-DB/">
                 <div className='app'>
                     <Container>
                         <Header />
