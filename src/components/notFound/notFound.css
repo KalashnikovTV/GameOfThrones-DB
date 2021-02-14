@@ -1,0 +1,18 @@
+.error-btn {
+    padding: 15px;
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    outline: none;
+    box-shadow: 0px 0px 30px rgba(256,256,256,.1);
+    cursor: pointer;
+}
+
+.error-btn:focus {
+    outline: none;
+}
+
+.error-url {
+    font-size: 3rem;
+}
